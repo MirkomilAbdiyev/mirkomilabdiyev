@@ -1,2 +1,2 @@
-Salom!
+Salom! <br/>
 Men Mirkomil Abdiyev
