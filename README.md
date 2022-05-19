@@ -18,4 +18,3 @@ Men <b>Mirkomil Abdiyev</b> <br/>
 <img src="http://steringm.ru/uploads/posts/61a00b89c4e84.png?v0.8.18" width="35">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30">
 <img src="https://excklusiveit.com/wp-content/themes/excklusiveit/img/django_sites_iVoCwp1.png" width="35">
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30">
