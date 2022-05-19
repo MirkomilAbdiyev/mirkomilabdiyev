@@ -7,3 +7,14 @@ Men <b>Mirkomil Abdiyev</b> <br/>
 <a href="https://twitter.com/mirkomilabdiyev"><img src="https://cdn-icons-png.flaticon.com/512/185/185961.png" width="30"></a>
 <a href="https://vk.com/mirkomilabdiyev"><img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494519.png?token=exp=1652990091~hmac=4ebf38dca99243eeaded8ca0a6bd3a5e" width="30"></a>
 <a href="https://mail.ru/mirkomilabdiyev"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="30"></a>
+<br><br>
+<b></b><br>
+<img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="30">
+<img src="https://web-creator.ru/uploads/Page/57/bootstrap.svg" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="30">
+<img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="30">
+<img src="https://excklusiveit.com/wp-content/themes/excklusiveit/img/django_sites_iVoCwp1.png" width="35">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30">
