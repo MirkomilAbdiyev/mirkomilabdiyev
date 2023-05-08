@@ -1,7 +1,7 @@
 Salom! <br/>
 Men <b>Mirkomil Abdiyev</b> <br/>
 <br/>
-<a href="https://t.me/mirkomilabdiyev"><img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="30"></a>
+<a href="https://t.me/mirkomilabdiyev"><img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="30">@MirkomilAbdiyev</a>
 <br><br>
 <b></b><br>
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="30">
